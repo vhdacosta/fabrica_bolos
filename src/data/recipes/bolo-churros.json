@@ -1,0 +1,50 @@
+{
+  "id": "bolo-churros",
+  "slug": "bolo-churros",
+  "title": "Bolo no Pote Sabor Churros",
+  "subtitle": "A tendência que virou febre com sabor de churros.",
+  "categoryId": "bolos-festa",
+  "difficulty": "medio",
+  "prepTimeMinutes": 30,
+  "cookTimeMinutes": 30,
+  "servings": 8,
+  "highlight": false,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["churros", "bolo-no-pote", "doce-de-leite"],
+  "occasions": ["festa", "presente"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "ovos", "quantity": 3, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 1.5, "unit": "xícara", "notes": "" },
+        { "name": "leite", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    },
+    {
+      "section": "Recheio e Montagem",
+      "items": [
+        { "name": "doce de leite", "quantity": 400, "unit": "gramas", "notes": "" },
+        { "name": "açúcar", "quantity": 0.5, "unit": "xícara", "notes": "para polvilhar" },
+        { "name": "canela em pó", "quantity": 2, "unit": "colher de sopa", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata ovos, açúcar, leite e óleo." },
+    { "order": 2, "text": "Adicione farinha e fermento, misture bem." },
+    { "order": 3, "text": "Asse em forma retangular a 180°C por 30 minutos." },
+    { "order": 4, "text": "Deixe esfriar e desfie o bolo com as mãos ou garfo." },
+    { "order": 5, "text": "Misture açúcar e canela em um prato." },
+    { "order": 6, "text": "Em potinhos, intercale camadas de bolo desfiado, doce de leite e açúcar com canela." },
+    { "order": 7, "text": "Finalize com uma camada generosa de açúcar com canela." }
+  ],
+  "tips": "Use potes de 200ml para porções individuais. Leve à geladeira por 2 horas antes de servir. Dura até 3 dias refrigerado.",
+  "views": 189,
+  "createdAt": "2025-10-22T10:00:00Z",
+  "updatedAt": "2025-12-10T17:40:00Z"
+}

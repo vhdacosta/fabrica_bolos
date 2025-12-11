@@ -1,0 +1,52 @@
+{
+  "id": "bolo-cenoura-chocolate",
+  "slug": "bolo-cenoura-chocolate",
+  "title": "Bolo de Cenoura com Cobertura de Chocolate",
+  "subtitle": "O clássico brasileiro que nunca sai de moda.",
+  "categoryId": "bolos-simples",
+  "difficulty": "facil",
+  "prepTimeMinutes": 20,
+  "cookTimeMinutes": 40,
+  "servings": 12,
+  "highlight": true,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["cenoura", "chocolate", "infantil", "classico"],
+  "occasions": ["lanche", "aniversario"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "cenouras médias", "quantity": 3, "unit": "unidade", "notes": "descascadas e picadas" },
+        { "name": "ovos", "quantity": 3, "unit": "unidade", "notes": "" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "açúcar", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 2.5, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    },
+    {
+      "section": "Cobertura",
+      "items": [
+        { "name": "chocolate em pó", "quantity": 4, "unit": "colher de sopa", "notes": "" },
+        { "name": "açúcar", "quantity": 3, "unit": "colher de sopa", "notes": "" },
+        { "name": "manteiga", "quantity": 1, "unit": "colher de sopa", "notes": "" },
+        { "name": "leite", "quantity": 3, "unit": "colher de sopa", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Preaqueça o forno a 180°C. Unte e enfarinhe uma forma." },
+    { "order": 2, "text": "Bata no liquidificador as cenouras, ovos e óleo até ficar homogêneo." },
+    { "order": 3, "text": "Em uma tigela, misture o açúcar e a farinha." },
+    { "order": 4, "text": "Adicione a mistura do liquidificador aos secos e mexa bem." },
+    { "order": 5, "text": "Por último, adicione o fermento e misture delicadamente." },
+    { "order": 6, "text": "Despeje na forma e asse por 40 minutos." },
+    { "order": 7, "text": "Para a cobertura, leve todos os ingredientes ao fogo até engrossar." },
+    { "order": 8, "text": "Despeje sobre o bolo ainda quente." }
+  ],
+  "tips": "O segredo é bater bem as cenouras no liquidificador para ficarem completamente trituradas. Teste o bolo com palito antes de tirar do forno.",
+  "views": 189,
+  "createdAt": "2025-10-15T10:00:00Z",
+  "updatedAt": "2025-12-08T12:00:00Z"
+}

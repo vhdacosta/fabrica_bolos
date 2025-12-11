@@ -1,0 +1,46 @@
+{
+  "id": "bolo-panetone",
+  "slug": "bolo-panetone",
+  "title": "Bolo de Panetone Natalino",
+  "subtitle": "Tradicional receita italiana adaptada para o Natal brasileiro.",
+  "categoryId": "datas-especiais",
+  "difficulty": "avancado",
+  "prepTimeMinutes": 60,
+  "cookTimeMinutes": 45,
+  "servings": 12,
+  "highlight": true,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["natal", "panetone", "frutas-cristalizadas", "tradicional"],
+  "occasions": ["natal", "ceia"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "farinha de trigo", "quantity": 4, "unit": "xícara", "notes": "" },
+        { "name": "açúcar", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "ovos", "quantity": 4, "unit": "unidade", "notes": "" },
+        { "name": "manteiga", "quantity": 150, "unit": "gramas", "notes": "amolecida" },
+        { "name": "leite morno", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "fermento biológico seco", "quantity": 10, "unit": "gramas", "notes": "" },
+        { "name": "frutas cristalizadas", "quantity": 200, "unit": "gramas", "notes": "picadas" },
+        { "name": "uvas-passas", "quantity": 150, "unit": "gramas", "notes": "" },
+        { "name": "essência de baunilha", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Dissolva o fermento no leite morno com 1 colher de açúcar. Deixe descansar 10 minutos." },
+    { "order": 2, "text": "Bata ovos, açúcar e manteiga até ficar cremoso." },
+    { "order": 3, "text": "Adicione o fermento dissolvido e a essência." },
+    { "order": 4, "text": "Incorpore a farinha aos poucos, sovando bem." },
+    { "order": 5, "text": "Adicione as frutas cristalizadas e passas." },
+    { "order": 6, "text": "Deixe a massa crescer por 2 horas em local morno." },
+    { "order": 7, "text": "Coloque em forma de panetone e deixe crescer mais 1 hora." },
+    { "order": 8, "text": "Asse a 180°C por 45 minutos." }
+  ],
+  "tips": "Deixe as frutas de molho em suco de laranja por 30 minutos antes de usar. Pincele manteiga derretida no topo antes de assar para dourar melhor.",
+  "views": 201,
+  "createdAt": "2025-11-25T10:00:00Z",
+  "updatedAt": "2025-12-11T09:00:00Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "bolo-cocada",
+  "slug": "bolo-cocada",
+  "title": "Bolo de Cocada Molhadinha",
+  "subtitle": "Sabor tropical e textura molhadinha perfeita.",
+  "categoryId": "bolos-simples",
+  "difficulty": "facil",
+  "prepTimeMinutes": 20,
+  "cookTimeMinutes": 40,
+  "servings": 12,
+  "highlight": false,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["coco", "molhadinho", "tropical"],
+  "occasions": ["cafe-da-tarde", "lanche"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "ovos", "quantity": 4, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "leite de coco", "quantity": 1, "unit": "lata", "notes": "" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "coco ralado", "quantity": 200, "unit": "gramas", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 2.5, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    },
+    {
+      "section": "Calda",
+      "items": [
+        { "name": "leite de coco", "quantity": 1, "unit": "lata", "notes": "" },
+        { "name": "leite condensado", "quantity": 0.5, "unit": "lata", "notes": "" },
+        { "name": "coco ralado", "quantity": 100, "unit": "gramas", "notes": "para decorar" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata ovos e açúcar até clarear." },
+    { "order": 2, "text": "Adicione leite de coco, óleo e coco ralado." },
+    { "order": 3, "text": "Incorpore a farinha peneirada aos poucos." },
+    { "order": 4, "text": "Adicione o fermento e misture delicadamente." },
+    { "order": 5, "text": "Asse a 180°C por 40 minutos." },
+    { "order": 6, "text": "Misture leite de coco e leite condensado para a calda." },
+    { "order": 7, "text": "Fure o bolo ainda quente e despeje a calda." },
+    { "order": 8, "text": "Polvilhe coco ralado por cima." }
+  ],
+  "tips": "Deixe o bolo absorver a calda por pelo menos 4 horas. Pode tostar levemente o coco da decoração para mais sabor.",
+  "views": 128,
+  "createdAt": "2025-08-14T10:00:00Z",
+  "updatedAt": "2025-12-06T13:25:00Z"
+}

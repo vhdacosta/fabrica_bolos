@@ -1,0 +1,41 @@
+{
+  "id": "bolo-milho-cremoso",
+  "slug": "bolo-milho-cremoso",
+  "title": "Bolo de Milho Cremoso",
+  "subtitle": "Sabor junino o ano todo, cremoso e delicioso.",
+  "categoryId": "bolos-simples",
+  "difficulty": "facil",
+  "prepTimeMinutes": 15,
+  "cookTimeMinutes": 50,
+  "servings": 12,
+  "highlight": false,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["milho", "festa-junina", "cremoso"],
+  "occasions": ["festa-junina", "cafe-da-tarde"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "milho verde em lata", "quantity": 1, "unit": "lata", "notes": "escorrido" },
+        { "name": "ovos", "quantity": 3, "unit": "unidade", "notes": "" },
+        { "name": "leite condensado", "quantity": 1, "unit": "lata", "notes": "" },
+        { "name": "leite", "quantity": 1, "unit": "lata", "notes": "medida da lata de leite condensado" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata no liquidificador milho, ovos, leite condensado, leite e óleo." },
+    { "order": 2, "text": "Transfira para uma tigela e adicione a farinha." },
+    { "order": 3, "text": "Por último, misture o fermento delicadamente." },
+    { "order": 4, "text": "Despeje em forma untada e enfarinhada." },
+    { "order": 5, "text": "Asse a 180°C por 50 minutos ou até dourar." }
+  ],
+  "tips": "Pode usar milho de espiga também, fica ainda mais saboroso. Não bata demais para manter pedacinhos de milho.",
+  "views": 113,
+  "createdAt": "2025-06-20T10:00:00Z",
+  "updatedAt": "2025-11-28T09:15:00Z"
+}

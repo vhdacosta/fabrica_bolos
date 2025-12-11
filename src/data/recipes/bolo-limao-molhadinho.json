@@ -1,0 +1,50 @@
+{
+  "id": "bolo-limao-molhadinho",
+  "slug": "bolo-limao-molhadinho",
+  "title": "Bolo de Limão Molhadinho",
+  "subtitle": "Refrescante e super úmido, perfeito para o verão.",
+  "categoryId": "bolos-simples",
+  "difficulty": "facil",
+  "prepTimeMinutes": 20,
+  "cookTimeMinutes": 35,
+  "servings": 10,
+  "highlight": true,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["limao", "molhadinho", "refrescante"],
+  "occasions": ["cafe-da-tarde", "verao"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "ovos", "quantity": 4, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "suco de limão", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 2.5, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    },
+    {
+      "section": "Calda",
+      "items": [
+        { "name": "suco de limão", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "açúcar", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "raspas de limão", "quantity": 2, "unit": "colher de sopa", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata ovos e açúcar até clarear." },
+    { "order": 2, "text": "Adicione óleo e suco de limão, misture bem." },
+    { "order": 3, "text": "Incorpore a farinha peneirada aos poucos." },
+    { "order": 4, "text": "Adicione o fermento e misture delicadamente." },
+    { "order": 5, "text": "Asse em forma untada a 180°C por 35 minutos." },
+    { "order": 6, "text": "Ferva os ingredientes da calda por 5 minutos." },
+    { "order": 7, "text": "Fure o bolo ainda quente e despeje a calda." }
+  ],
+  "tips": "Use limões sicilianos para um sabor mais intenso. Deixe o bolo absorver a calda por pelo menos 2 horas antes de servir.",
+  "views": 167,
+  "createdAt": "2025-11-02T10:00:00Z",
+  "updatedAt": "2025-12-10T16:45:00Z"
+}

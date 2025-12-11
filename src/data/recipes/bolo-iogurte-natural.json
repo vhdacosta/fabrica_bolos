@@ -1,0 +1,41 @@
+{
+  "id": "bolo-iogurte-natural",
+  "slug": "bolo-iogurte-natural",
+  "title": "Bolo de Iogurte Natural",
+  "subtitle": "Super leve, fofo e úmido. Perfeito para o café da manhã.",
+  "categoryId": "saudaveis",
+  "difficulty": "facil",
+  "prepTimeMinutes": 10,
+  "cookTimeMinutes": 35,
+  "servings": 10,
+  "highlight": false,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["iogurte", "leve", "cafe-da-manha", "simples"],
+  "occasions": ["cafe-da-manha", "lanche"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "iogurte natural", "quantity": 1, "unit": "pote", "notes": "200ml" },
+        { "name": "ovos", "quantity": 3, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 1.5, "unit": "xícara", "notes": "ou 1 xícara se preferir menos doce" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" },
+        { "name": "raspas de limão", "quantity": 1, "unit": "unidade", "notes": "opcional" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata ovos e açúcar até clarear." },
+    { "order": 2, "text": "Adicione iogurte, óleo e raspas de limão, misture." },
+    { "order": 3, "text": "Incorpore a farinha peneirada aos poucos." },
+    { "order": 4, "text": "Por último, adicione o fermento." },
+    { "order": 5, "text": "Despeje em forma untada e asse a 180°C por 35 minutos." }
+  ],
+  "tips": "Pode usar iogurte de qualquer sabor para variar. Com iogurte de morango fica delicioso! Sirva com frutas frescas.",
+  "views": 94,
+  "createdAt": "2025-07-30T10:00:00Z",
+  "updatedAt": "2025-12-03T10:50:00Z"
+}

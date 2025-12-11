@@ -1,0 +1,60 @@
+{
+  "id": "bolo-ninho-nutella",
+  "slug": "bolo-ninho-nutella",
+  "title": "Bolo de Ninho com Nutella",
+  "subtitle": "A combinação perfeita de leite ninho e nutella.",
+  "categoryId": "bolos-recheados",
+  "difficulty": "medio",
+  "prepTimeMinutes": 35,
+  "cookTimeMinutes": 35,
+  "servings": 15,
+  "highlight": true,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["ninho", "nutella", "chocolate-branco", "festa"],
+  "occasions": ["aniversario", "festa"],
+  "ingredients": [
+    {
+      "section": "Massa Branca",
+      "items": [
+        { "name": "ovos", "quantity": 4, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "leite", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 2.5, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        { "name": "leite ninho em pó", "quantity": 400, "unit": "gramas", "notes": "" },
+        { "name": "leite condensado", "quantity": 1, "unit": "lata", "notes": "" },
+        { "name": "creme de leite", "quantity": 1, "unit": "caixinha", "notes": "" },
+        { "name": "nutella", "quantity": 300, "unit": "gramas", "notes": "" }
+      ]
+    },
+    {
+      "section": "Cobertura",
+      "items": [
+        { "name": "chocolate branco", "quantity": 200, "unit": "gramas", "notes": "" },
+        { "name": "creme de leite", "quantity": 1, "unit": "caixinha", "notes": "" },
+        { "name": "leite ninho", "quantity": 100, "unit": "gramas", "notes": "para decorar" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata ovos, açúcar, leite e óleo." },
+    { "order": 2, "text": "Adicione farinha e fermento, misture." },
+    { "order": 3, "text": "Asse em duas formas a 180°C por 35 minutos." },
+    { "order": 4, "text": "Para o recheio, misture leite ninho, leite condensado e creme de leite." },
+    { "order": 5, "text": "Corte cada bolo ao meio, formando 4 camadas." },
+    { "order": 6, "text": "Intercale camadas com recheio de ninho e nutella." },
+    { "order": 7, "text": "Derreta chocolate branco com creme de leite para a cobertura." },
+    { "order": 8, "text": "Cubra o bolo e decore com leite ninho." }
+  ],
+  "tips": "Deixe o bolo gelar por 4 horas antes de servir. A nutella pode ser aquecida levemente para facilitar o espalhamento.",
+  "views": 278,
+  "createdAt": "2025-09-08T10:00:00Z",
+  "updatedAt": "2025-12-11T11:15:00Z"
+}

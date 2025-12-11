@@ -1,0 +1,51 @@
+{
+  "id": "bolo-chocolate-brigadeiro",
+  "slug": "bolo-chocolate-brigadeiro",
+  "title": "Bolo de Chocolate com Recheio de Brigadeiro",
+  "subtitle": "Irresistível para os amantes de chocolate.",
+  "categoryId": "bolos-recheados",
+  "difficulty": "medio",
+  "prepTimeMinutes": 30,
+  "cookTimeMinutes": 40,
+  "servings": 15,
+  "highlight": true,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["chocolate", "brigadeiro", "aniversario", "festa"],
+  "occasions": ["aniversario", "festa"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "ovos", "quantity": 4, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "leite", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "chocolate em pó", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        { "name": "leite condensado", "quantity": 2, "unit": "lata", "notes": "" },
+        { "name": "chocolate em pó", "quantity": 4, "unit": "colher de sopa", "notes": "" },
+        { "name": "manteiga", "quantity": 2, "unit": "colher de sopa", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata ovos, açúcar, leite e óleo no liquidificador." },
+    { "order": 2, "text": "Adicione chocolate em pó e bata mais um pouco." },
+    { "order": 3, "text": "Em uma tigela, misture a farinha e o fermento." },
+    { "order": 4, "text": "Junte as misturas e despeje em duas formas untadas." },
+    { "order": 5, "text": "Asse a 180°C por 35-40 minutos." },
+    { "order": 6, "text": "Para o brigadeiro, leve todos os ingredientes ao fogo baixo até desgrudar da panela." },
+    { "order": 7, "text": "Monte o bolo intercalando as camadas com brigadeiro." }
+  ],
+  "tips": "Deixe o bolo esfriar completamente antes de rechear. Use brigadeiro ainda morno para facilitar a cobertura.",
+  "views": 156,
+  "createdAt": "2025-09-20T10:00:00Z",
+  "updatedAt": "2025-12-05T09:15:00Z"
+}

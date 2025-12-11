@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bolos-simples",
+    "slug": "bolos-simples",
+    "name": "Bolos Simples",
+    "description": "Receitas práticas para o dia a dia",
+    "icon": "🍰"
+  },
+  {
+    "id": "bolos-recheados",
+    "slug": "bolos-recheados",
+    "name": "Bolos Recheados",
+    "description": "Sabores surpreendentes em camadas",
+    "icon": "🎂"
+  },
+  {
+    "id": "bolos-festa",
+    "slug": "bolos-festa",
+    "name": "Bolos de Festa",
+    "description": "Para celebrar momentos especiais",
+    "icon": "🎉"
+  },
+  {
+    "id": "datas-especiais",
+    "slug": "datas-especiais",
+    "name": "Datas Especiais",
+    "description": "Natal, Páscoa e mais",
+    "icon": "🎄"
+  },
+  {
+    "id": "saudaveis",
+    "slug": "saudaveis",
+    "name": "Saudáveis",
+    "description": "Opções integrais e com menos açúcar",
+    "icon": "🌾"
+  }
+]

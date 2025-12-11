@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Nunito:wght@300;400;600;700&display=swap');
+
+@layer base {
+  body {
+    @apply font-nunito text-cinza-texto;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-playfair;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-vermelho-bolo text-white px-6 py-3 rounded-lg font-semibold hover:bg-red-800 transition-colors duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-white text-vermelho-bolo border-2 border-vermelho-bolo px-6 py-3 rounded-lg font-semibold hover:bg-rosa-bolo transition-colors duration-200;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-md overflow-hidden transition-transform duration-200 hover:scale-105;
+  }
+}

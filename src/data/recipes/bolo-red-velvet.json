@@ -1,0 +1,55 @@
+{
+  "id": "bolo-red-velvet",
+  "slug": "bolo-red-velvet",
+  "title": "Bolo Red Velvet com Cream Cheese",
+  "subtitle": "O famoso bolo vermelho aveludado com cobertura de cream cheese.",
+  "categoryId": "bolos-festa",
+  "difficulty": "avancado",
+  "prepTimeMinutes": 45,
+  "cookTimeMinutes": 30,
+  "servings": 16,
+  "highlight": true,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["red-velvet", "festa", "sofisticado", "americano"],
+  "occasions": ["aniversario", "casamento", "festa"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "farinha de trigo", "quantity": 2.5, "unit": "xícara", "notes": "" },
+        { "name": "açúcar", "quantity": 1.5, "unit": "xícara", "notes": "" },
+        { "name": "chocolate em pó", "quantity": 2, "unit": "colher de sopa", "notes": "" },
+        { "name": "ovos", "quantity": 2, "unit": "unidade", "notes": "" },
+        { "name": "óleo", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "leitelho", "quantity": 1, "unit": "xícara", "notes": "ou iogurte natural" },
+        { "name": "corante vermelho", "quantity": 2, "unit": "colher de sopa", "notes": "" },
+        { "name": "bicarbonato de sódio", "quantity": 1, "unit": "colher de chá", "notes": "" },
+        { "name": "vinagre branco", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    },
+    {
+      "section": "Cobertura de Cream Cheese",
+      "items": [
+        { "name": "cream cheese", "quantity": 300, "unit": "gramas", "notes": "" },
+        { "name": "manteiga", "quantity": 100, "unit": "gramas", "notes": "em temperatura ambiente" },
+        { "name": "açúcar de confeiteiro", "quantity": 3, "unit": "xícara", "notes": "" },
+        { "name": "essência de baunilha", "quantity": 1, "unit": "colher de chá", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Misture farinha, açúcar e chocolate em pó." },
+    { "order": 2, "text": "Bata ovos, óleo, leitelho e corante." },
+    { "order": 3, "text": "Junte as misturas até ficar homogêneo." },
+    { "order": 4, "text": "Adicione bicarbonato e vinagre, misture rapidamente." },
+    { "order": 5, "text": "Divida em três formas redondas e asse a 180°C por 30 minutos." },
+    { "order": 6, "text": "Para a cobertura, bata cream cheese, manteiga e açúcar até ficar cremoso." },
+    { "order": 7, "text": "Adicione baunilha e bata mais um pouco." },
+    { "order": 8, "text": "Monte o bolo intercalando camadas de massa e cobertura." }
+  ],
+  "tips": "Use corante em gel para uma cor mais intensa. Deixe o bolo na geladeira por 2 horas antes de servir para firmar a cobertura.",
+  "views": 312,
+  "createdAt": "2025-10-05T10:00:00Z",
+  "updatedAt": "2025-12-11T10:30:00Z"
+}

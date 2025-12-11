@@ -1,0 +1,41 @@
+{
+  "id": "bolo-formigueiro",
+  "slug": "bolo-formigueiro",
+  "title": "Bolo Formigueiro Clássico",
+  "subtitle": "Aquele bolo cheio de chocolate granulado que todo mundo ama.",
+  "categoryId": "bolos-simples",
+  "difficulty": "facil",
+  "prepTimeMinutes": 15,
+  "cookTimeMinutes": 35,
+  "servings": 12,
+  "highlight": false,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["chocolate", "cafe-da-tarde", "formigueiro"],
+  "occasions": ["lanche", "cafe-da-tarde"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "ovos", "quantity": 3, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "óleo", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "leite", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 3, "unit": "xícara", "notes": "" },
+        { "name": "chocolate granulado", "quantity": 200, "unit": "gramas", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata ovos, açúcar, óleo e leite no liquidificador." },
+    { "order": 2, "text": "Transfira para uma tigela e misture a farinha peneirada." },
+    { "order": 3, "text": "Adicione o chocolate granulado e misture delicadamente." },
+    { "order": 4, "text": "Por último, incorpore o fermento." },
+    { "order": 5, "text": "Despeje em forma untada e asse a 180°C por 35 minutos." }
+  ],
+  "tips": "Não bata o chocolate no liquidificador, adicione por último para manter os granulados inteiros. Polvilhe chocolate granulado por cima antes de assar.",
+  "views": 142,
+  "createdAt": "2025-07-12T10:00:00Z",
+  "updatedAt": "2025-12-11T08:30:00Z"
+}

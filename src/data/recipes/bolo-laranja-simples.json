@@ -1,0 +1,47 @@
+{
+  "id": "bolo-laranja-simples",
+  "slug": "bolo-laranja-simples",
+  "title": "Bolo de Laranja Simples da Vó",
+  "subtitle": "Um clássico fofo e perfumado para o café da tarde.",
+  "categoryId": "bolos-simples",
+  "difficulty": "facil",
+  "prepTimeMinutes": 15,
+  "cookTimeMinutes": 35,
+  "servings": 10,
+  "highlight": true,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["laranja", "cafe-da-tarde", "classico"],
+  "occasions": ["cafe-da-tarde", "visita-em-casa"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "ovos", "quantity": 3, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "óleo", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "suco de laranja", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    },
+    {
+      "section": "Calda (opcional)",
+      "items": [
+        { "name": "suco de laranja", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "açúcar", "quantity": 0.25, "unit": "xícara", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Preaqueça o forno a 180°C e unte uma forma com furo no meio." },
+    { "order": 2, "text": "Bata ovos, açúcar, óleo e suco de laranja até ficar homogêneo." },
+    { "order": 3, "text": "Adicione a farinha peneirada e misture delicadamente." },
+    { "order": 4, "text": "Incorpore o fermento, leve à forma e asse por cerca de 35 minutos." },
+    { "order": 5, "text": "Misture os ingredientes da calda, aqueça levemente e regue o bolo ainda morno." }
+  ],
+  "tips": "Use laranjas bem maduras para um aroma mais intenso. Não abra o forno antes de 30 minutos.",
+  "views": 245,
+  "createdAt": "2025-11-01T10:00:00Z",
+  "updatedAt": "2025-12-10T15:30:00Z"
+}

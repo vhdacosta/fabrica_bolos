@@ -1,0 +1,42 @@
+{
+  "id": "bolo-integral-banana-aveia",
+  "slug": "bolo-integral-banana-aveia",
+  "title": "Bolo Integral de Banana com Aveia",
+  "subtitle": "Opção mais saudável sem perder o sabor.",
+  "categoryId": "saudaveis",
+  "difficulty": "facil",
+  "prepTimeMinutes": 15,
+  "cookTimeMinutes": 40,
+  "servings": 10,
+  "highlight": false,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["integral", "banana", "saudavel", "cafe-da-manha"],
+  "occasions": ["cafe-da-manha", "lanche"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "bananas maduras", "quantity": 3, "unit": "unidade", "notes": "amassadas" },
+        { "name": "ovos", "quantity": 2, "unit": "unidade", "notes": "" },
+        { "name": "mel ou açúcar demerara", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "óleo de coco", "quantity": 0.25, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo integral", "quantity": 1.5, "unit": "xícara", "notes": "" },
+        { "name": "aveia em flocos", "quantity": 0.5, "unit": "xícara", "notes": "" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" },
+        { "name": "canela em pó", "quantity": 1, "unit": "colher de chá", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Amasse bem as bananas em uma tigela." },
+    { "order": 2, "text": "Adicione ovos, mel e óleo de coco, misture bem." },
+    { "order": 3, "text": "Acrescente farinha integral, aveia e canela." },
+    { "order": 4, "text": "Por último, adicione o fermento e misture delicadamente." },
+    { "order": 5, "text": "Despeje em forma untada e asse a 180°C por 40 minutos." }
+  ],
+  "tips": "Quanto mais maduras as bananas, mais doce e aromático fica o bolo. Pode adicionar nozes ou castanhas picadas para mais textura.",
+  "views": 76,
+  "createdAt": "2025-08-05T10:00:00Z",
+  "updatedAt": "2025-12-02T11:45:00Z"
+}

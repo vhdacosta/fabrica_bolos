@@ -1,0 +1,42 @@
+{
+  "id": "bolo-fuba-cremoso",
+  "slug": "bolo-fuba-cremoso",
+  "title": "Bolo de Fubá Cremoso da Casa",
+  "subtitle": "Perfeito para festas juninas e café da tarde.",
+  "categoryId": "bolos-simples",
+  "difficulty": "facil",
+  "prepTimeMinutes": 15,
+  "cookTimeMinutes": 45,
+  "servings": 12,
+  "highlight": false,
+  "imageUrl": "",
+  "videoUrl": "",
+  "tags": ["fuba", "festa-junina", "tradicional"],
+  "occasions": ["festa-junina", "cafe-da-tarde"],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        { "name": "ovos", "quantity": 3, "unit": "unidade", "notes": "" },
+        { "name": "açúcar", "quantity": 2, "unit": "xícara", "notes": "" },
+        { "name": "óleo", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "fubá", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "farinha de trigo", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "leite", "quantity": 1, "unit": "xícara", "notes": "" },
+        { "name": "queijo ralado", "quantity": 100, "unit": "gramas", "notes": "parmesão" },
+        { "name": "fermento em pó", "quantity": 1, "unit": "colher de sopa", "notes": "" }
+      ]
+    }
+  ],
+  "steps": [
+    { "order": 1, "text": "Bata no liquidificador ovos, açúcar, óleo e leite." },
+    { "order": 2, "text": "Em uma tigela, misture fubá, farinha e queijo ralado." },
+    { "order": 3, "text": "Junte a mistura líquida aos ingredientes secos." },
+    { "order": 4, "text": "Por último, adicione o fermento e misture delicadamente." },
+    { "order": 5, "text": "Despeje em forma untada e asse a 180°C por 45 minutos." }
+  ],
+  "tips": "O queijo ralado dá um toque especial. Sirva quente ou frio, fica delicioso dos dois jeitos!",
+  "views": 98,
+  "createdAt": "2025-06-10T10:00:00Z",
+  "updatedAt": "2025-11-30T14:20:00Z"
+}
